@@ -23,7 +23,7 @@ const menuItems = [
   {
     name: 'Black Coffee',
     description:
-      'Our rich and flavorful coffee, brewed to perfection and served black for a pure and bold coffee experience',
+      'Our rich and flavorful coffee, brewed to perfection and served black for a pure and bold coffee experience.',
     price: '8',
     url: blackImg,
   },
