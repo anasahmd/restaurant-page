@@ -9,9 +9,8 @@
   padding: 0 2rem;
 }
 
-.image {
+#home .image {
   position: absolute;
-  top: 0;
   z-index: -1;
   width: 100%;
   height: 100%;
@@ -22,19 +21,19 @@
   background-repeat: no-repeat;
 }
 
-h1 {
+#home h1 {
   font-size: 3rem;
   color: #fff;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
 }
 
-p {
+#home p {
   color: #fff;
   font-size: 1.25rem;
   margin-bottom: 10rem;
 }
 
-a {
+#home button {
   border: none;
   background-color: #fff;
   padding: 1em 2em;
