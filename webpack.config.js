@@ -23,7 +23,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: 'Biryani Mahal',
+      title: 'Coffee Shop',
       template: 'src/template.html',
     }),
   ],
