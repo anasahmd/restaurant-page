@@ -12,6 +12,7 @@ export default function createHeader() {
   for (let tab of navTabs) {
     const li = document.createElement('li');
     li.id = tab.toLowerCase() + '-tab';
+    li.classList.add('nav-li');
     li.innerText = tab;
     ul.appendChild(li);
     li.addEventListener('click', () => {

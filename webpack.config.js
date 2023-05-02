@@ -27,7 +27,7 @@ module.exports = {
       template: 'src/template.html',
     }),
   ],
-  mode: 'production',
+  mode: 'development',
   module: {
     rules: [
       {
